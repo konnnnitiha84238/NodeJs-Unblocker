@@ -1,4 +1,3 @@
-/誰かこれに2回base64エンコードしてurlを隠してタイトルを固定してくれませんか？
 
 var url = require('url');
 var querystring = require('querystring');
